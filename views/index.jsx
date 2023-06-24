@@ -1,5 +1,5 @@
 const React = require('react')
-const Default = require('layouts/Default')
+const Default = require('../views/layouts/Default')
 
 function Index ({breads, bakers, title})  {
   return (
