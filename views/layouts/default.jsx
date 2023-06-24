@@ -1,6 +1,6 @@
 const React = require('react')
 
-function Default(html) {
+function DefaultLayout(html) {
   return (
     <html>
     <head>
@@ -23,4 +23,4 @@ function Default(html) {
   )
 }
 
-module.exports = Default
+module.exports = DefaultLayout
